@@ -1,6 +1,6 @@
 {
   "name": "discord-js-utils",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "FD Package for help with discord.js",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FIUSdevelopment/discord-utils.git"
+    "url": "git+https://github.com/FIUSdevelopment/discord.js-utils.git"
   },
   "keywords": [
     "FIUS",
@@ -24,7 +24,8 @@
   "author": "FIUS Development | Killer Boss Original",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FIUSdevelopment/discord-utils/issues"
+    "url": "https://github.com/FIUSdevelopment/discord.js-utils/issues",
+    "email" : "administration@fius.it"
   },
-  "homepage": "https://github.com/FIUSdevelopment/discord-utils#readme"
+  "homepage": "https://github.com/FIUSdevelopment/discord.js-utils#readme"
 }
