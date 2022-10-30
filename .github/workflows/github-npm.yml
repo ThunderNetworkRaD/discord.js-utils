@@ -1,4 +1,4 @@
-name: Publish to NPM
+name: Publish to GITHUB NPM
 on:
   release:
     types: [created]
@@ -15,6 +15,6 @@ jobs:
       - name: Publish package on NPM 📦
         run: npm publish --access public
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-          REGISTRY1: 'registry.npmjs.org'
-          REGISTRY2: 'registry=https://registry.npmjs.org/'
+          NODE_AUTH_TOKEN: ${{ secrets.GP_TOKEN }}
+          REGISTRY1: 'npm.pkg.github.com'
+          REGISTRY2: '@fiusdevelopment:registry=https://npm.pkg.github.com'
