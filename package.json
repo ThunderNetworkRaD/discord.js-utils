@@ -1,11 +1,12 @@
 {
   "name": "discord-js-utils",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "FD Package for help with discord.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "ulock": "npm install --package-lock-only"
+    "test": "exit 1",
+    "ulock": "npm install --package-lock-only",
+    "build": "exit 1"
   },
   "repository": {
     "type": "git",
