@@ -1,6 +1,6 @@
 {
   "name": "discord-js-utils",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "FD Package for help with discord.js",
   "main": "index.js",
   "scripts": {
