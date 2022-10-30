@@ -1,5 +1,5 @@
 {
-  "name": "discord-utils",
+  "name": "discord.js-utils",
   "version": "0.0.2",
   "description": "FD Package for help with discord.js",
   "main": "index.js",
